@@ -14,6 +14,6 @@ as,
 
 a[i,j] =			{ 4 if i=j,  −1 if j=i+1,  −1 if j=i−1,  0 otherwise
 
-b[i] =			{ 1 i < n/2,  0 otherwise }
+b[i] =			{ 1 if i<n/2,  0 otherwise }
 
 eps = 10^-10 and x(0)=0.
