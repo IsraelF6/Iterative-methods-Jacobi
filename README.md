@@ -1,7 +1,7 @@
 # Iterative-methods-Jacobi
 
 
-Write a subroutine that solves a triadiagonal matrix system, Ax = b, using the Jacobi method. 
+A subroutine that solves a triadiagonal matrix system, Ax = b, using the Jacobi method. 
 Your subroutine should take as input the matrix coefficients along the 3 bands: 
 a[i,i−1] where i=2, ..., n; a[i,i] where i=1, ..., n, and a[i,i+1] where i=1, ..., n−1. 
 Also b, x(0), and the tolerance eps, are inputs.
