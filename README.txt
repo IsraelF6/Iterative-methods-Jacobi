@@ -1,4 +1,9 @@
-# Iterative-methods-Jacobi
+===================
+ Iterative methods
+       Jacobi
+===================
+
+Made By: Israel Felhandler
 
 
 A subroutine that solves a triadiagonal matrix system, Ax = b, using the Jacobi method. 
